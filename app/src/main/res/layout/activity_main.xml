@@ -30,6 +30,7 @@
             android:layout_height="wrap_content"
             android:textSize="@dimen/txt_size"
             android:inputType="phone"
+            android:maxLength="10"
             android:imeOptions="actionGo"/>
 
     </android.support.design.widget.TextInputLayout>
